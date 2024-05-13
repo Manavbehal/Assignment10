@@ -37,7 +37,6 @@ box-sizing: border-box;
 .buttons {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-
   
     
     
